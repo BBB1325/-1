@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fa5c201-d904-41a2-87d0-94dcdf76458d" name="Changes" comment="я добавив привітання до вчителля">
-      <change afterPath="$PROJECT_DIR$/444.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="1fa5c201-d904-41a2-87d0-94dcdf76458d" name="Changes" comment="додав атрибут грошей" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669996528864</updated>
       <workItem from="1669996530488" duration="2418000" />
-      <workItem from="1670007991718" duration="295000" />
+      <workItem from="1670007991718" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="я добавив привітання до вчителля">
       <created>1669997178154</created>
@@ -85,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669997178154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="додав атрибут грошей">
+      <created>1670008421662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670008421662</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="я добавив привітання до вчителля" />
-    <option name="LAST_COMMIT_MESSAGE" value="я добавив привітання до вчителля" />
+    <MESSAGE value="додав атрибут грошей" />
+    <option name="LAST_COMMIT_MESSAGE" value="додав атрибут грошей" />
   </component>
 </project>
