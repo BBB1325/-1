@@ -1,1 +1,6 @@
-print("Добрий день Ігоре Романович ви дуже хороший вчитель дякую що ви нас вчите")
+class cat:
+    def __init__(self, name ,age):
+        self.name = name
+        self.age = age
+
+cat = cat("Tom",2)
